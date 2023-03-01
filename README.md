@@ -39,7 +39,7 @@ href="https://steamcommunity.com/id/vadioso"><img src="https://img.shields.io/ba
 ### More informations:
 - 🔭 6 months of Front-End
 - 🌱 Studying Programming
-- 😄 Pronouns: Him/His (Freelancer)
-- ⚡ Fun fact: jack of all trades
+- 😄 Pronouns: Him/His
+- ⚡ Fun fact: jack of all trades (Freelancer)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
