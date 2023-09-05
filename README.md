@@ -28,6 +28,7 @@ href="https://www.linkedin.com/in/in/eduardo-carbonari-silva-465333268" target="
 
 ### Studying in this moment:
 ![C](https://img.shields.io/badge/C-1A73E8?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
 ### IDEs/Editors:
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
