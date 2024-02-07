@@ -41,6 +41,6 @@ href="https://www.linkedin.com/in/in/eduardo-carbonari-silva-465333268" target="
 
 ### More informations:
 - 🔭 6 months of Front-End
-- 👨‍🎓 Studiyng SI 1/8 - Unoeste
+- 👨‍🎓 Studiyng SI 2/8 - Unoeste
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=footer"/>
