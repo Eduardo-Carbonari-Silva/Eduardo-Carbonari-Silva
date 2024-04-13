@@ -23,7 +23,7 @@ href="mailto:ducarbosilva@hotmail.com"><img src="https://img.shields.io/badge/Mi
 href="https://www.linkedin.com/in/in/eduardo-carbonari-silva-465333268" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 
- ### Main skills:
+### Main skills:
 ![C](https://img.shields.io/badge/C-1A73E8?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
