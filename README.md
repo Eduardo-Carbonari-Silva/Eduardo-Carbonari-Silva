@@ -24,26 +24,24 @@ href="https://www.linkedin.com/in/in/eduardo-carbonari-silva-465333268" target="
  </div>
 
 ### Main skills:
-![C](https://img.shields.io/badge/C-1A73E8?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 ### Studying in this moment:
-![C](https://img.shields.io/badge/C-1A73E8?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 ### IDEs/Editors:
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![DEV C++](https://img.shields.io/badge/Dev%20C++-ffffff.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Jobs:
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 ### More informations:
 - 🔭 6 months of Front-End
-- 👨‍🎓 Studiyng Information System 2/8 - Unoeste
+- 👨‍🎓 Studiyng Information System 3/8 - Unoeste
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=footer"/>
