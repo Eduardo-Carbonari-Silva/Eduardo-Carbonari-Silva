@@ -41,7 +41,7 @@ href="https://www.linkedin.com/in/in/eduardo-carbonari-silva-465333268" target="
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 ### More informations:
-- 🔭 6 months of Front-End
+- 🔭 6 months of FullStack
 - 👨‍🎓 Studiyng Information System 3/8 - Unoeste
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=footer"/>
