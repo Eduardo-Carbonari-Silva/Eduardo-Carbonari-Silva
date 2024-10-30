@@ -6,12 +6,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Carbonari-Silva&layout=compact&title_color=FF0000&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-<h2 align='center'><i><a href="https://github.com/Eduardo-Carbonari-Silva">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/Eduardo-Carbonari-Silva#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo-Carbonari-Silva&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-
 ### Social Media Handles:
 <div> 
 <a
