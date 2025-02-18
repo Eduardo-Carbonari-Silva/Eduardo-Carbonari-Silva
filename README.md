@@ -35,7 +35,7 @@
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 ### More informations:
-- 🔭 6 months of FullStack
+- 🔭 6 months of FullStack on SENAI Presidente Prudente - SP, Brazil
 - 👨‍🎓 Studiyng Information System 4/8 - Unoeste
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=footer"/>
