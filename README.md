@@ -36,6 +36,6 @@
 
 ### More informations:
 - 🔭 6 months of FullStack
-- 👨‍🎓 Studiyng Information System 3/8 - Unoeste
+- 👨‍🎓 Studiyng Information System 4/8 - Unoeste
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=footer"/>
