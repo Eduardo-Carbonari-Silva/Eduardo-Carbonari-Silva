@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1C8139&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Eduardo+Carbonari+Silva+here;I'm+20+years+old;Studying+Information+Systems+on+Unoeste;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Carbonari-Silva&hide_progress=true&layout=compact&title_color=F34B7D&text_color=ff91a4&bg_color=212830" />
+  <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Carbonari-Silva&layout=compact&title_color=F34B7D&text_color=ff91a4&bg_color=212830" />
 </div>
 
 ### Social Media Handles:
@@ -18,11 +18,10 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
 ### Studying in this moment:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
 ### IDEs/Editors:
