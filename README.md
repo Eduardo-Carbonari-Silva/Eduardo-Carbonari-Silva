@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1C8139&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Eduardo+Carbonari+Silva+here;I'm+20+years+old;Studying+Information+Systems+on+Unoeste;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Carbonari-Silva&layout=compact&title_color=F34B7D&text_color=ff91a4&bg_color=212830&hide=css,html,javascript" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Carbonari-Silva&layout=compact&title_color=1C8139&text_color=ff91a4&bg_color=212830&hide=css,html,javascript" />
 </div>
 
 ### Social Media Handles:
@@ -37,4 +37,4 @@
 - 🔭 6 months of FullStack at SENAI Presidente Prudente - SP, Brazil
 - 👨‍🎓 Studiyng Information System 5/8 - Unoeste
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C8139&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=footer"/>
