@@ -11,7 +11,7 @@
   <a href="https://instagram.com/eduardo.vsz"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
   <a href="mailto:ducarbosilva@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>&nbsp;
   <a href="https://www.linkedin.com/in/eduardo-carbonari-silva/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
-  <a href ="https://linktr.ee/eduaktrovao"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>&nbsp;
+  <a href ="https://linktr.ee/eduaktrovao"><img src="https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=1de9b6" target="_blank"></a>&nbsp;
   <a href ="https://steamcommunity.com/id/vadioso/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
